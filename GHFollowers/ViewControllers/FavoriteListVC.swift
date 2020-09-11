@@ -1,20 +1,19 @@
 //
-//  ViewController.swift
+//  FavoriteListVC.swift
 //  GHFollowers
 //
-//  Created by Jeff Morhous on 4/6/20.
+//  Created by Jeff Morhous on 4/7/20.
 //  Copyright © 2020 Jeff Morhous. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class FavoriteListVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = .systemBlue
         // Do any additional setup after loading the view.
     }
 
-
 }
-
